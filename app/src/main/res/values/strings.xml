@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Book Shop</string>
+    <string name="book_type">Choose the book category</string>
+    <string name="send">Send Message</string>
+    <string name="hint">Enter a message</string>
+    <string name="find_book">Select Book</string>
+    <string name="this_is_a_text_view_string_brands">This is a text view@string/brands</string>
+    <string name="brands">Book</string>
+    <string-array name="menu">
+        <item>Fiction </item>
+        <item>Non-fiction </item>
+        <item>Science Fiction </item>
+    </string-array>
+
+</resources>
